@@ -1,7 +1,7 @@
 # 08 TypeScript and OOP: Vehicle Builder
 
 ## Introduction
-This project demonstrates the fundamentals of Typescript
+This project demonstrates the fundamentals of Typescript & OOP
 
 View the code on GitHub:
 https://github.com/parkerspeares/Module--8--TypeScript
